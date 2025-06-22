@@ -1,0 +1,11 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.backup
+*.log
+*.tfvars.json
+crash.log
+.idea/
+.vscode/
+*.exe
